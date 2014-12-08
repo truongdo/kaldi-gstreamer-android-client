@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kaldi GStreamer Client</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_btn_start">Start</string>
+
+    <string name="setting_lang_title">Choose language</string>
+
+
+    <string name="pref_key_addr">key_addr</string>
+    <string name="pref_key_port">key_port</string>
+    <string name="pref_key_lang">key_lang</string>
+
+    <string name="pref_sec1">Server infor</string>
+
+    <string name="default_server_addr">bark.phon.ioc.ee</string>
+    <string name="default_server_port">82</string>
+    <string name="default_server_app_status">/dev/duplex-speech-api/ws/status</string>
+    <string name="default_server_app_speech">/dev/duplex-speech-api/ws/speech</string>
+
+    <!--
+    <string name="default_server_addr">163.221.94.22</string>
+    <string name="default_server_port">11507</string>
+    <string name="default_server_app_status">/ja/speech-api/ws/status</string>
+    <string name="default_server_app_speech">/ja/speech-api/ws//speech</string>
+-->
+</resources>

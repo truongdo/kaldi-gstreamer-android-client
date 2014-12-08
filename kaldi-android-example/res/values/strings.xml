@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="hello">Hello World, recorder!</string>
-    <string name="app_name">asr demo</string>
-    <string name="loading_video">Loading video</string>
-    <string name="button_stop">Stop</string>
-    
-</resources>
