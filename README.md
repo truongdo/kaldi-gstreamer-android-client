@@ -7,9 +7,9 @@ The android library for Kaldi Gstreamer server
 
 Installation
 =============================
-
-* import to Android Studio
-* via command line:
+There are two ways to use this library:
+* The first way is to import it to Android Studio
+* The second way is via command line:
         cd KaldiGStreamerClient
         gradle assembleDebug
 
