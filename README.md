@@ -1,6 +1,10 @@
 Kaldi Gstreamer Android Client
 ==============================
 
+__Deprecated__
+I'm not maintaining this project anymore. Please checkout the project [K6nele](https://github.com/Kaljurand/K6nele) instead!
+
+
 Kaldi gstreamer android client
 
 The android library for Kaldi Gstreamer server
